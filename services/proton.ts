@@ -143,7 +143,7 @@ class ProtonSDK {
   link: Link | null;
 
   constructor() {
-    this.appName = 'Proton Market';
+    this.appName = 'Snipcoins NFT Market';
     this.requestAccount = 'nftmarket';
     this.session = null;
     this.link = null;
